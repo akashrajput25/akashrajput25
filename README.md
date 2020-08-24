@@ -1,4 +1,4 @@
-### Hi there Myself Akash👋
+### Walking through Codes 👨‍💻
 
 <!--
 **akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
