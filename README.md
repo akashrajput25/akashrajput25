@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/akashrajput25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=radical&card_width=240"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=dark&card_width=240"/>
 </a>
 <a href="https://github.com/akashrajput25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&theme=radical&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&theme=dark&card_width=300" />
 </a>
