@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=radical&card_width=180)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact)](https://github.com/akashrajput25/github-readme-stats)
-
 <a href="https://github.com/akashrajput25/github-readme-stats">
-  ![Akash's github stats]
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=radical&card_width=180" />
+  <img align="center" src="![Akash's github stats]https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=radical&card_width=180" />
 </a>
 <a href="https://github.com/akashrajput25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact" />
+  <img align="center" src="![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact" />
 </a>
