@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- <name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1>
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
+  {{commits}}
