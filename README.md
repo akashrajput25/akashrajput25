@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&theme=radical&card_width=180)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact)](https://github.com/akashrajput25/github-readme-stats)
