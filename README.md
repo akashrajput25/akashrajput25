@@ -2,10 +2,10 @@
 ### 💻 Skills
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=white&color=03fcf0)
-![](https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=white&color=03fcf0)
-![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=white&color=03dbfc)
+![](https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ad03fc)
+![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=white&color=fc0377)
+![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=white&color=fc6f03)
 
 <br><br>
 <!--
