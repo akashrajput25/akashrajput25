@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
 ![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
 
-<br><br>
+<br>
 <!--
 **akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
