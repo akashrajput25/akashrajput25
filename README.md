@@ -1,5 +1,8 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
+### 5🌟 Gold in Python(hackerrank)
+### 4🌟 Silver in Java(hackerrank)
+
 ### 💻 Skills
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7)
@@ -25,8 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 5🌟 Gold in Python(hackerrank)
-### 4🌟 Silver in Java(hackerrank)
 
 <a href="https://github.com/akashrajput25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff"/>
