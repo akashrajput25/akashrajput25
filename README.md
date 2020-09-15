@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc)
 ![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
 ![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
+
 
 <br>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
 
 <a href="https://github.com/akashrajput25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
