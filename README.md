@@ -1,8 +1,5 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
-### 5🌟 Gold in Python(hackerrank)
-### 4🌟 Silver in Java(hackerrank)
-
 ### 💻 Skills
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7)
