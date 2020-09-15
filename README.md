@@ -7,9 +7,10 @@
 ![](https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc)
 ![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
 ![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
 
 <br>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
+
 
 <!--
 **akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
