@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=bhawana455.visitor-badge)
 
 <a href="https://github.com/bhawana455/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhawana455&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhawana455&show_icons=true&card_width=240&bg_color=90">
 </a>
 <a href="https://github.com/bhawana455/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawana455&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhawana455&layout=compact&card_width=300&card_height=150&bg_color=90">
 </a>
 
