@@ -1,6 +1,6 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
-<p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img src="https://gph.is/g/aQO5MPB"></img>
 
 
 ### 💻 Skills
