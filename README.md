@@ -1,6 +1,6 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"></img>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="60px"></img>
 
 
 ### 💻 Skills
