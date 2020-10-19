@@ -1,6 +1,6 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
-<img src="https://github.com/akashrajput25/akashrajput25/blob/master/phy.gif"></img>
+<img src="https://github.com/akashrajput25/akashrajput25/blob/master/phy.gif" width="100%"></img>
 
 ### 💻 Skills
 <hr>
