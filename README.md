@@ -2,6 +2,12 @@
 
  ### 💻 Skills 
 
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7)
+![](https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc)
+![](https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc)
+![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
+![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
+
 <hr>
 
 <!--
