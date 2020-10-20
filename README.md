@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <hr>
 
 <a href="https://github.com/akashrajput25/github-readme-stats/issues">
-<img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+<img alt="Issues" src="https://img.shields.io/github/issues/akashrajput25/github-readme-stats?color=0088ff" />
 </a>
 <a href="https://github.com/akashrajput25/github-readme-stats/pulls">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/akashrajput25/github-readme-stats?color=0088ff" />
 </a>   
 <hr>
 <a href="https://github.com/akashrajput25/github-readme-stats">
