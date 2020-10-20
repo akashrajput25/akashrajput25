@@ -1,6 +1,6 @@
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
-### 💻 Skills
+<p align="center"> ### 💻 Skills </p>
 
 <hr>
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
+<p align="center"> ![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)</p>
 <hr>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
