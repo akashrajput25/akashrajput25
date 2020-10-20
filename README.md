@@ -2,10 +2,25 @@
 
 ### 💻 Skills
 
+<hr>
+
+<!--
+**akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+-->
+![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
+<hr>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <h2 align="center">My Stats</h2>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -28,25 +43,6 @@
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
-
-<hr>
-
-<br>
-
-
-<!--
-**akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
 <hr>
 <a href="https://github.com/akashrajput25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
