@@ -1,3 +1,5 @@
+<img src="http://clipart-library.com/images/pc5oREXc9.gif" height="50px"></img>
+
 ## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
 
  ### 💻 Skills 
@@ -19,7 +21,6 @@
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0)](#) [![C Badge](https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff)](#) 
 
 <hr>
-
 <!--
 **akashrajput25/akashrajput25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
