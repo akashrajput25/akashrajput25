@@ -1,6 +1,5 @@
-<img src="http://clipart-library.com/images/pc5oREXc9.gif" height="80px"></img>
 
-## 🆆🅰🅻🅺🅸🅽🅶 🆃🅷🆁🅾🆄🅶🅷 🅲🅾🅳🅴🆂 👨‍💻
+## Hello <img src="http://clipart-library.com/images/pc5oREXc9.gif" height="80px"></img>
 
  ### 💻 Skills 
 
