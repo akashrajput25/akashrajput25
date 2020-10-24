@@ -8,6 +8,12 @@
 ![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
 ![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
 
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)](#) 
+
 <hr>
 
 <!--
