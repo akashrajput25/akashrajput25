@@ -1,4 +1,4 @@
-<img src="http://clipart-library.com/images/pc5oREXc9.gif" height="80px"></img>
+
 
  ### 💻 Skills 
 
@@ -41,11 +41,9 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
 
 <hr>
-<p align="center"> 
  
 ![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
 
-</p>
 <hr>
 
 <a href="https://github.com/akashrajput25/github-readme-stats">
