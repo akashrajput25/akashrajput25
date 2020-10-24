@@ -1,9 +1,9 @@
 
 </t><img src="http://clipart-library.com/images/pc5oREXc9.gif" height="80px"></img>
-## Hello World 
+# Hello World 
 <br>
 
- ### 💻 Skills 
+ ## 💻 Skills 
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7)
 ![](https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc)
