@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377)
 ![](https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03)
 
-#### Top Technologies
+#### Proficient in 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
