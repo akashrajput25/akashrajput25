@@ -22,16 +22,6 @@
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0)](#) [![C Badge](https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff)](#) 
 
 <hr>
-
-### Some ways to reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941)](https://twitter.com/Akashku45066941) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumarsingh001/) 
-<br>
-[![Mail Badge](https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/a.kash.raj.put) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
-
-<hr>
  
 ![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
 
@@ -44,3 +34,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
 </a>
 <hr>
+
+### Some ways to reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941)](https://twitter.com/Akashku45066941) 
+[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumarsingh001/) 
+<br>
+[![Mail Badge](https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/a.kash.raj.put) 
+[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
