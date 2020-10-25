@@ -1,5 +1,5 @@
 
-</t><img src="https://github.com/akashrajput25/akashrajput25/blob/master/hey.gif" height="80px"></img>
+</t><img src="https://github.com/akashrajput25/akashrajput25/blob/master/hey.gif" height="70px"></img>
 # Hello World 
 <br>
 
