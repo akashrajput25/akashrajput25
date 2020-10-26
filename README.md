@@ -13,10 +13,8 @@
  
 <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7">
 <img src="https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc">
-<br>
 <img src="https://img.shields.io/badge/Program-JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc">
 <img src="https://img.shields.io/badge/Program-Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377">
-<br>
 <img src="https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03">
 <img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=HTML5&logoColor=bafc03&color=fc6f03">
 <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
