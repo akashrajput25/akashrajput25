@@ -36,21 +36,18 @@
 </p>
 <hr>
 <p align="center">
-<a href="https://github.com/akashrajput25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
 </p>
 <hr>
 
 <h2 align="center"> Some ways to reach me out! </h2>
 <p align="center">
- 
-[![Twitter Badge](https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941)](https://twitter.com/Akashku45066941) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumarsingh001/) 
-[![Mail Badge](https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/a.kash.raj.put) 
-[![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
-
+<img src="https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941">
+(https://twitter.com/Akashku45066941) 
+<img src="https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/akashkumarsingh001/) 
+<img src="https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white">(https://instagram.com/a.kash.raj.put) 
+<img src="https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">(mailto:akash250799@gmail.com)
 </p>
 <h2 align="center">Joke of the day</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
