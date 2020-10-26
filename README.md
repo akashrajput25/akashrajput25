@@ -1,5 +1,6 @@
+<hr>
 <p align="center">
-&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
+&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px" align="center"></img>
 </p>
 <hr>
 <h2 align="center">🏆 My GitHub Trophies</h2>
