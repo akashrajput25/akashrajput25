@@ -2,6 +2,7 @@
 </t><img src="https://github.com/akashrajput25/akashrajput25/blob/master/hey.gif" height="60px"></img>
 
 <pre> <img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px"></img></pre>
+<pre>
 
  ## 💻 Skills 
 
@@ -41,3 +42,5 @@
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumarsingh001/) 
 [![Mail Badge](https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/a.kash.raj.put) 
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
+
+</pre>
