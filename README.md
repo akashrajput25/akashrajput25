@@ -27,8 +27,9 @@
 
 <hr>
  
-<img align="center" src="https://gpvc.arturio.dev/akashrajput25">
-
+<p align="center">
+<img src="https://gpvc.arturio.dev/akashrajput25">
+</p>
 <hr>
 
 <a href="https://github.com/akashrajput25/github-readme-stats">
