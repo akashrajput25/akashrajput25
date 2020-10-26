@@ -4,7 +4,6 @@
 </p>
 <hr>
 <h2 align="center">🏆 My GitHub Trophies</h2>
-<hr>
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
 <hr>
 <h1 align="center">💻 Skills</h2> 
