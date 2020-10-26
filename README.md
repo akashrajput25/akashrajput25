@@ -3,7 +3,7 @@
 # Hello World 
 <br>
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif | width=200)
+<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="60px"></img>
 
  ## 💻 Skills 
 
