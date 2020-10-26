@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
 
 </p>
-#### Proficient in 
+<h2 align="center">Proficient in</h2> 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -27,7 +27,7 @@
 
 <hr>
  
-![Profile views](https://gpvc.arturio.dev/akashrajput25)
+<img align="center" src="https://gpvc.arturio.dev/akashrajput25">
 
 <hr>
 
