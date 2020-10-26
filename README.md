@@ -25,6 +25,13 @@
 
 <hr>
 
+<h2 align="center">🏆 My GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="780" />
+</p>
+
+<hr>
+
 <a href="https://github.com/akashrajput25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
 </a>
@@ -39,3 +46,6 @@
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumarsingh001/) 
 [![Mail Badge](https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/a.kash.raj.put) 
 [![Mail Badge](https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akash250799@gmail.com)
+
+<h2 align="center">Joke of the day</h2>
+<p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
