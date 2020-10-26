@@ -23,7 +23,7 @@
 
 <hr>
  
-![Visits Counter](https://visitor-badge.glitch.me/badge?page_id=akashrajput25.visitor-badge)
+![Profile views](https://gpvc.arturio.dev/akashrajput25)
 
 <hr>
 
