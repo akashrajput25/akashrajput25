@@ -1,12 +1,12 @@
 <p align="center">
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
 </p>
-
+<hr>
 <h2 align="center">🏆 My GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
-
+<hr>
 <h1 align="center">💻 Skills</h2> 
-
+<hr>
 <p align="center">
  
 <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7">
@@ -21,7 +21,7 @@
 
 </p>
 <h1 align="center">Proficient in</h2> 
-
+<hr>
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB">
