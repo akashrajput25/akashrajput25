@@ -2,9 +2,12 @@
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
 </p>
 
+<h2 align="center">🏆 My GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="780" />
+</p>
 
-
- <h2 align="center">💻 Skills</h2> 
+<h2 align="center">💻 Skills</h2> 
 
 <p align="center">
  
