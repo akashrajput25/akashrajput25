@@ -1,5 +1,5 @@
 
-&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px"></img>
+&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px"></img>
 
  ## 💻 Skills 
 
