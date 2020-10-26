@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">🏆 My GitHub Trophies</h2>
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="780" />
 </p>
 
