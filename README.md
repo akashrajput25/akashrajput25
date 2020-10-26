@@ -1,5 +1,8 @@
 <p align="center">
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
+</p>
+
+<p align="center">
 
  ## 💻 Skills 
 
@@ -13,6 +16,7 @@
 ![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=HTML5&logoColor=bafc03&color=fc6f03)
 ![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03)
 
+</p>
 #### Proficient in 
 
 <!-- TODO: Make technologies links takes you to repositories -->
