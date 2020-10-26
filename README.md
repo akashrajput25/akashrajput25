@@ -2,10 +2,12 @@
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
 </p>
 
-<p align="center">
+
 
  ## 💻 Skills 
 
+<p align="center">
+ 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7)
 ![](https://img.shields.io/badge/Program-Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc)
 <br>
