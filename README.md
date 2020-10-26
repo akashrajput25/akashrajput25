@@ -1,7 +1,7 @@
 
 </t><img src="https://github.com/akashrajput25/akashrajput25/blob/master/hey.gif" height="60px"></img>
 
-<pre> <img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px"></img></pre>
+<pre style="color:green"> <img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px"></img></pre>
 
  ## 💻 Skills 
 
