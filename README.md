@@ -5,7 +5,7 @@
 <h2 align="center">🏆 My GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
 
-<h2 align="center">💻 Skills</h2> 
+<h1 align="center">💻 Skills</h2> 
 
 <p align="center">
  
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
 
 </p>
-<h2 align="center">Proficient in</h2> 
+<h1 align="center">Proficient in</h2> 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 <hr>
 
-<h2 align="center"> Some ways to reach me out! </h2>
+<h1 align="center"> Some ways to reach me out! </h2>
 <p align="center">
 <a href="https://twitter.com/Akashku45066941"><img src="https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941">
 </a>
@@ -57,5 +57,5 @@
 <img src="https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
 </a>
 </p>
-<h2 align="center">Joke of the day</h2>
+<h1 align="center">Joke of the day</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
