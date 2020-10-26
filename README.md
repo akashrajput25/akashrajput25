@@ -1,5 +1,5 @@
-
-&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px"></img>
+<p align="center">
+&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="30px" width="45px" align="center"></img>
 
  ## 💻 Skills 
 
@@ -49,3 +49,4 @@
 
 <h2 align="center">Joke of the day</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
+</p>
