@@ -22,9 +22,13 @@
 <h2 align="center">Proficient in</h2> 
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![C Badge](https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0)](#) [![C Badge](https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff)](#)
-
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB">
+<img src="https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F">
+<img src="https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc">
+<img src="https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0">
+<img src="https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff">
+</p>
 <hr>
  
 <p align="center">
