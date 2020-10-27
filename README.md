@@ -1,10 +1,10 @@
 <hr>
 <p align="center">
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px" align="center"></img>
-
+</p>
 <br>
-
-&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/oie_rounded_corners.gif"></img>
+<p align="center">
+&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/oie_rounded_corners.gif" width="60px"></img>
 </p>
 <hr>
 <h2 align="center">🏆 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘</h2>
