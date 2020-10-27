@@ -58,3 +58,4 @@
 </p>
 <h1 align="center">Joke of the day</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMkPGUjMNZfDVumPbOEBWeMZonDJDdJ74wrA&usqp=CAU"/></p>
