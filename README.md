@@ -3,10 +3,10 @@
 &nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px" align="center"></img>
 </p>
 <hr>
-<h2 align="center">🏆 My GitHub Trophies</h2>
+<h2 align="center">🏆 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
 <hr>
-<h1 align="center">💻 Skills</h2> 
+<h1 align="center">💻 𝓢𝓴𝓲𝓵𝓵𝓼</h2> 
 <hr>
 <p align="center">
  
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
 
 </p>
-<h1 align="center">Proficient in</h2> 
+<h1 align="center">𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻</h2> 
 <hr>
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 <hr>
 
-<h1 align="center"> Some ways to reach me out! </h2>
+<h1 align="center"> 𝕊𝕠𝕞𝕖 𝕨𝕒𝕪𝕤 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 𝕠𝕦𝕥! </h2>
 <p align="center">
 <a href="https://twitter.com/Akashku45066941"><img src="https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941">
 </a>
