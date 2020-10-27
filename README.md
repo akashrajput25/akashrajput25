@@ -6,7 +6,7 @@
 <h2 align="center">🏆 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
 <hr>
-<h1 align="center">💻 𝓢𝓴𝓲𝓵𝓵𝓼</h2> 
+<h1 align="center">💻 𝐒𝐤𝐢𝐥𝐥𝐬</h2> 
 <hr>
 <p align="center">
  
@@ -56,5 +56,5 @@
 <img src="https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
 </a>
 </p>
-<h1 align="center">Joke of the day</h2>
+<h1 align="center">𝗝𝗼𝗸𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘆</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
