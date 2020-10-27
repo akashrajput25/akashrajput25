@@ -4,7 +4,7 @@
 </p>
 <br>
 <p align="center">
-&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/oie_rounded_corners.gif" width="120px"></img>
+&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/oie_rounded_corners.gif" width="150px"></img>
 </p>
 <hr>
 <h2 align="center">🏆 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘</h2>
