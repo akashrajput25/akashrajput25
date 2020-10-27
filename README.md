@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="40px" width="55px" align="center"></img>
+&nbsp;<img src ="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="50px" width="65px" align="center"></img>
 </p>
 <br>
 <p align="center">
