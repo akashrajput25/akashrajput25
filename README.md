@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/proedited.gif" height="50px" width="70px" align="center"></img>
+&nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/proedited.gif" height="50px" width="100px" align="center"></img>
 </p>
 <br>
 <p align="center">
