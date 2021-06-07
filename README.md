@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=HTML5&logoColor=DC143C&color=DC143C">
 <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
 <img src="https://img.shields.io/badge/CODE-SHELL-informational?style=flat&logo=SHELL&logoColor=bafc03&color=fc6f03">
- <img src="https://img.shields.io/badge/CODE-NODE-informational?style=flat&logo=SHELL&logoColor=bafc03&color=fc4f03">
+ <img src="https://img.shields.io/badge/CODE-NODE-informational?style=flat&logo=NODEJS&logoColor=bafc03&color=fc4f03">
 
 </p>
 <h1 align="center">𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻</h2> 
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc">
 <img src="https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0">
 <img src="https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff">
-<img src="https://img.shields.io/badge/SHELL-informational?style=for-the-badge&logo=NODE&logoColor=0be6c5&color=f22424">
+<img src="https://img.shields.io/badge/SHELL-informational?style=for-the-badge&logo=SHELL&logoColor=0be6c5&color=f22424">
 </p>
 <hr>
  
