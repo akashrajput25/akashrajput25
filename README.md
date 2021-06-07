@@ -15,13 +15,15 @@
 <p align="center">
  
 <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=3BB9FF&color=3090C7">
-<img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc">
-<img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc">
-<img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377">
-<img src="https://img.shields.io/badge/C-Program-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03">
-<img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=DC143C&color=DC143C">
-<img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
-<img src="https://img.shields.io/badge/SHELL-informational?style=flat&logo=SHELL&logoColor=bafc03&color=fc6f03">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
