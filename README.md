@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=bafc03&color=03dbfc">
 <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=bafc03&color=ad03fc">
 <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=bafc03&color=fc0377">
-<img src="https://img.shields.io/badge/Program-C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03">
-<img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=HTML5&logoColor=DC143C&color=DC143C">
-<img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
-<img src="https://img.shields.io/badge/CODE-SHELL-informational?style=flat&logo=SHELL&logoColor=bafc03&color=fc6f03">
+<img src="https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=bafc03&color=fc6f03">
+<img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=DC143C&color=DC143C">
+<img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=bafc03&color=fc6f03">
+<img src="https://img.shields.io/badge/SHELL-informational?style=flat&logo=SHELL&logoColor=bafc03&color=fc6f03">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
