@@ -12,7 +12,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 </div>
 <hr>
-<h1 align="center">🌠 𝐒𝐤𝐢𝐥𝐥𝐬</h2> 
+<h1 align="center">🌠 </h2> 
 <hr>
 <p align="center">
  
@@ -30,7 +30,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 </p>
-<h1 align="center">Proficient in</h2> 
+<h1 align="center">P𝖗𝖔𝖋𝖎𝖈𝖎𝖊𝖓𝖙 𝖎𝖓</h2> 
 <hr>
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/SHELL-informational?style=for-the-badge&logo=SHELL&logoColor=0be6c5&color=f22424">
 </p>
 <hr>
- <h2 align="center">Competitive Platforms</h2>
+ <h2 align="center">C𝖔𝖒𝖕𝖊𝖙𝖎𝖙𝖎𝖛𝖊 P𝖑𝖆𝖙𝖋𝖔𝖗𝖒𝖘</h2>
 <p align="center">
    <a href ="https://www.hackerrank.com/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
@@ -62,7 +62,7 @@
 </p>
 <hr>
 
-<h1 align="center"> Reach me! </h2>
+<h1 align="center"> 𝕽𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊! </h2>
 <p align="center">
 <a href ="https://twitter.com/Akashku45066941"><img alt="Twitter" src="https://img.shields.io/badge/Akashku45066941-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
@@ -75,7 +75,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<h1 align="center">𝗝𝗼𝗸𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘆</h2>
+<h1 align="center">𝕵𝖔k𝖊  𝖔𝖋 𝖙𝖍𝖊 𝕯𝖆𝖞</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?username=akashrajput25&theme=vue-dark" alt="Jokes Card" />
 </p>
