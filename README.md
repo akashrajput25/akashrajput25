@@ -12,7 +12,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 </div>
 <hr>
-<h1 align="center">🌠 </h2> 
+<h1 align="center">🌠 𝔰𝔎𝔦𝔩𝔩𝔰</h2> 
 <hr>
 <p align="center">
  
