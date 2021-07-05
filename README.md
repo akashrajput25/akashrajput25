@@ -13,7 +13,6 @@
 </div>
 <hr>
 <h1 align="center">🌠 𝔰𝔎𝔦𝔩𝔩𝔰</h2> 
-<hr>
 <p align="center">
  
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -30,8 +29,8 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 </p>
-<h1 align="center" style="color:#a8a7a3;">P𝖗𝖔𝖋𝖎𝖈𝖎𝖊𝖓𝖙 𝖎𝖓</h2> 
 <hr>
+<h1 align="center" style="color:#a8a7a3;">P𝖗𝖔𝖋𝖎𝖈𝖎𝖊𝖓𝖙 𝖎𝖓</h2> 
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB">
@@ -57,7 +56,7 @@
 <p align="center">
 <img height="20px" src="https://gpvc.arturio.dev/akashrajput25">
 </p>
-<hr>
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
