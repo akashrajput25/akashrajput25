@@ -48,11 +48,11 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://gpvc.arturio.dev/akashrajput25">
+<img height="20px" src="https://gpvc.arturio.dev/akashrajput25">
 </p>
 <hr>
 <p align="center">
-  <img src="[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashrajput25)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img src="[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashrajput25)](https://github.com/akashrajput25/github-readme-stats)"/>
  </p>
 
 <p align="center">
