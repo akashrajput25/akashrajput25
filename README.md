@@ -62,7 +62,7 @@
 </p>
 <hr>
 
-<h1 align="center"> 𝕊𝕠𝕞𝕖 𝕨𝕒𝕪𝕤 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 𝕠𝕦𝕥! </h2>
+<h1 align="center"> Reach me! </h2>
 <p align="center">
 <a href ="https://twitter.com/Akashku45066941"><img alt="Twitter" src="https://img.shields.io/badge/Akashku45066941-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
