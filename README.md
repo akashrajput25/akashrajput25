@@ -66,5 +66,9 @@
 <img src="https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
 </a>
 </p>
+<p>
+   <a href ="https://www.hackerrank.com/akash250799"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
 <h1 align="center">𝗝𝗼𝗸𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘆</h2>
 <p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
+
