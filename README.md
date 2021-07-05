@@ -42,7 +42,14 @@
 <img src="https://img.shields.io/badge/SHELL-informational?style=for-the-badge&logo=SHELL&logoColor=0be6c5&color=f22424">
 </p>
 <hr>
- <h2 align="center">C𝖔𝖒𝖕𝖊𝖙𝖎𝖙𝖎𝖛𝖊 P𝖑𝖆𝖙𝖋𝖔𝖗𝖒𝖘</h2>
+
+<div align="center">
+ 
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrajput25&theme=vue-dark&show_icons=true)
+
+</div>
+
+<h2 align="center">C𝖔𝖒𝖕𝖊𝖙𝖎𝖙𝖎𝖛𝖊 P𝖑𝖆𝖙𝖋𝖔𝖗𝖒𝖘</h2>
 <p align="center">
    <a href ="https://www.hackerrank.com/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
@@ -51,22 +58,12 @@
 <img height="20px" src="https://gpvc.arturio.dev/akashrajput25">
 </p>
 <hr>
-<p align="center">
-  <img src="[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashrajput25)](https://github.com/akashrajput25/github-readme-stats)"/>
- </p>
-
-<div align="center">
- 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrajput25&theme=vue-dark&show_icons=true)
-
-</div>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
 </p> -->
-<hr>
 
 <h1 align="center"> 𝕽𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊! </h2>
 <p align="center">
