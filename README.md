@@ -1,16 +1,18 @@
-<hr>
-<p align="center">
+<!-- <hr> -->
+<!-- <p align="center">
 &nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/proedited.gif" height="45px" width="100px" align="center"></img>
-</p>
+</p> -->
 <br>
-<p align="center">
+<!-- <p align="center">
 &nbsp;<img src ="https://github.com/akashrajput25/akashrajput25/blob/master/oie_rounded_corners.gif" width="150px"></img>
-</p>
+</p> -->
 <hr>
 <h2 align="center">🏆 𝕸𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝕿𝖗𝖔𝖕𝖍𝖎𝖊𝖘</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=dracula" width="980" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+</div>
 <hr>
-<h1 align="center">💻 𝐒𝐤𝐢𝐥𝐥𝐬</h2> 
+<h1 align="center">🌠 𝐒𝐤𝐢𝐥𝐥𝐬</h2> 
 <hr>
 <p align="center">
  
@@ -28,7 +30,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 </p>
-<h1 align="center">𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻</h2> 
+<h1 align="center">Proficient in</h2> 
 <hr>
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -40,11 +42,19 @@
 <img src="https://img.shields.io/badge/SHELL-informational?style=for-the-badge&logo=SHELL&logoColor=0be6c5&color=f22424">
 </p>
 <hr>
- 
+ <h2 align="center">Competitive Platforms</h2>
+<p align="center">
+   <a href ="https://www.hackerrank.com/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
+<hr>
 <p align="center">
 <img src="https://gpvc.arturio.dev/akashrajput25">
 </p>
 <hr>
+<p align="center">
+  <img src="[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashrajput25)](https://github.com/anuraghazra/github-readme-stats)"/>
+ </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
  <br>
@@ -54,22 +64,19 @@
 
 <h1 align="center"> 𝕊𝕠𝕞𝕖 𝕨𝕒𝕪𝕤 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 𝕠𝕦𝕥! </h2>
 <p align="center">
-<a href="https://twitter.com/Akashku45066941"><img src="https://img.shields.io/badge/-@Akash_Rajput-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akashku45066941">
-</a>
+<a href ="https://twitter.com/Akashku45066941"><img alt="Twitter" src="https://img.shields.io/badge/Akashku45066941-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
 <a href="https://www.linkedin.com/in/akashkumarsingh001/">
-<img src="https://img.shields.io/badge/-Akash_Kumar_Singh-0000d8?style=flat&labelColor=0000d8&logo=linkedin&logoColor=white"> 
-</a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://instagram.com/a.kash.raj.put">
-<img src="https://img.shields.io/badge/-@a.kash.raj.put-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white"> 
+<img alt="Instagram" src="https://img.shields.io/badge/a.kash.raj.put-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> 
 </a>
 <a href="mailto:akash250799@gmail.com">
-<img src="https://img.shields.io/badge/-Akash_Kumar_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<p align="center">
-   <h2 align="center">Competitive Platforms</h2>
-   <a align="center" href ="https://www.hackerrank.com/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-</p>
 <h1 align="center">𝗝𝗼𝗸𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘆</h2>
-<p align="center"><img src="https://readme-jokes.vercel.app/api"/></p>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api/?username=akashrajput25&theme=vue-dark" alt="Jokes Card" />
+</p>
 
