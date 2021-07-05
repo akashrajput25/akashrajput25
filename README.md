@@ -30,7 +30,7 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 </p>
-<h1 align="center">P𝖗𝖔𝖋𝖎𝖈𝖎𝖊𝖓𝖙 𝖎𝖓</h2> 
+<h1 align="center" style="color:#a8a7a3;">P𝖗𝖔𝖋𝖎𝖈𝖎𝖊𝖓𝖙 𝖎𝖓</h2> 
 <hr>
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -55,11 +55,17 @@
   <img src="[![Akash's stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashrajput25)](https://github.com/akashrajput25/github-readme-stats)"/>
  </p>
 
-<p align="center">
+<div align="center">
+ 
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashrajput25&theme=vue-dark&show_icons=true)
+
+</div>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashrajput25&show_icons=true&card_width=240&bg_color=90,cccccc,ffffff">
  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
-</p>
+</p> -->
 <hr>
 
 <h1 align="center"> 𝕽𝖊𝖆𝖈𝖍 𝖔𝖚𝖙 𝖙𝖔 𝖒𝖊! </h2>
