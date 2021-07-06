@@ -12,7 +12,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=akashrajput25&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
 </div>
 <hr>
-<h1 align="center">🌠 𝑺𝒌𝒊𝒍𝒍𝒔</h2> 
+<h2 align="center">🌠 𝑺𝒌𝒊𝒍𝒍𝒔</h2> 
 <p align="center">
  
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 </p>
 <hr>
-<h1 align="center" style="color:#a8a7a3;">𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑰𝒏</h2> 
+<h2 align="center" style="color:#a8a7a3;">𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑰𝒏</h2> 
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB">
@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrajput25&layout=compact&card_width=300&card_height=150&bg_color=90,cccccc,ffffff">
 </p> -->
 
-<h1 align="center">𝑹𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 !</h2>
+<h2 align="center">𝑹𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 !</h2>
 <p align="center">
 <a href ="https://twitter.com/Akashku45066941"><img alt="Twitter" src="https://img.shields.io/badge/Akashku45066941-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
