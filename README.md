@@ -77,7 +77,7 @@
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-<h1 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
+<h2 align="center">𝑱𝒐𝒌𝒆 𝑶𝒇 𝑻𝒉𝒆 𝑫𝒂𝒚</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?username=akashrajput25&theme=vue-dark" alt="Jokes Card" />
 </p>
