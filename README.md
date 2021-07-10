@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-C-007acc?style=for-the-badge&labelColor=black&logo=c&logoColor=007acc">
 <img src="https://img.shields.io/badge/-HTML5-c0c0c0?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=c0c0c0">
 <img src="https://img.shields.io/badge/-CSS3-0fffff?style=for-the-badge&labelColor=black&logo=css3&logoColor=0fffff">
-<img src="https://img.shields.io/badge/-SHELL-fccccc?style=for-the-badge&labelColor=black&logo=css3&logoColor=fccccc">
+<img src="https://img.shields.io/badge/-SHELL-fccccc?style=for-the-badge&labelColor=black&logo=shell&logoColor=fccccc">
 </p>
 <hr>
 
