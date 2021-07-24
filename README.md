@@ -51,6 +51,7 @@
 <h2 align="center">𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎𝒔</h2>
 <p align="center">
    <a href ="https://www.hackerrank.com/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+ <a href ="https://www.codechef.com/users/akash250799"><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </p>
 <hr>
 <p align="center">
