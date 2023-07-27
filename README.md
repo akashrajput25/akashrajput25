@@ -55,7 +55,7 @@
 </p>
 <hr>
 <p align="center">
-<img height="20px" src="https://gpvc.arturio.dev/akashrajput25">
+<img height="20px" src="https://komarev.com/ghpvc/?username=akashrajput25">
 </p>
 
 
